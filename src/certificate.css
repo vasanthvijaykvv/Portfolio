@@ -1,0 +1,22 @@
+#border{
+    border: 1px solid white;
+   margin-left: -50px; 
+   margin-top: 55px;
+   
+}
+.boxshadow:hover {
+    transform: scale(1.03);
+    transition: .45s;
+    cursor: pointer;
+}
+a:link{
+    text-decoration: none;
+    
+}
+a{
+    color: aqua;    
+}
+a:hover{
+    color:aquamarine;
+    
+}
