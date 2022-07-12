@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f277a2d3.css",
+    "main.js": "/Portfolio/static/js/main.45aa8355.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cinitwo.jpg": "/Portfolio/static/media/cinitwo.6ad3a3dad19f4e20081b.jpg",
+    "static/media/certificatetwo.jpg": "/Portfolio/static/media/certificatetwo.216236c1b9c4672a2007.jpg",
+    "static/media/certificateone.jpg": "/Portfolio/static/media/certificateone.b5ea9bd66504bf78935c.jpg",
+    "static/media/certificatefour.jpg": "/Portfolio/static/media/certificatefour.364aa0148eb08cb1263b.jpg",
+    "static/media/chess.png": "/Portfolio/static/media/chess.32b76cecef4045c95eba.png",
+    "static/media/cinithree.jpg": "/Portfolio/static/media/cinithree.09be9c4d5187fc41a5e9.jpg",
+    "static/media/certificatethree.jpg": "/Portfolio/static/media/certificatethree.3eec2ea3fb95490684a0.jpg",
+    "static/media/clock.jpg": "/Portfolio/static/media/clock.aa11e91fd23057446608.jpg",
+    "static/media/profilepic.jpg": "/Portfolio/static/media/profilepic.87116fd46f73162a24e2.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.f277a2d3.css.map": "/Portfolio/static/css/main.f277a2d3.css.map",
+    "main.45aa8355.js.map": "/Portfolio/static/js/main.45aa8355.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f277a2d3.css",
+    "static/js/main.45aa8355.js"
+  ]
+}
