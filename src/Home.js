@@ -97,7 +97,7 @@ class Home extends React.Component {
                                             <td>Chess Board</td>
                                             <td>Html5, CSS3</td>
                                             <td>
-                                                <a href={"https://vasanthvijaykvv.github.io/ChessBoard/"}>Click here</a>
+                                                <a href={"https://vasanthvijaykvv.github.io/ChessBoard/"} target="_blank">Click here</a>
                                             </td>
 
                                         </tr>
@@ -105,7 +105,7 @@ class Home extends React.Component {
                                             <td>Digital Clock</td>
                                             <td>Html5, CSS3, React JS</td>
                                             <td>
-                                                <a href={"https://vasanthvijaykvv.github.io/Digital-clock/"}>Click here</a>
+                                                <a href={"https://vasanthvijaykvv.github.io/Digital-clock/"} target="_blank">Click here</a>
                                             </td>
 
                                         </tr>
@@ -113,7 +113,7 @@ class Home extends React.Component {
                                             <td>Movie Ticket Booking</td>
                                             <td>Html5, CSS3, React JS, BootStrap-4</td>
                                             <td>
-                                                <a href={"https://vasanthvijaykvv.github.io/Movie-ticket/"}>Click here</a>
+                                                <a href={"https://vasanthvijaykvv.github.io/Movie-ticket/"} target="_blank">Click here</a>
                                             </td>
 
                                         </tr>
@@ -121,7 +121,7 @@ class Home extends React.Component {
                                             <td>Portfolio</td>
                                             <td>Html5, CSS3, React JS, BootStrap-4</td>
                                             <td>
-                                                <a href={"https://vasanthvijaykvv.github.io/Portfolio/"}>Click here</a>
+                                                <a href={"https://vasanthvijaykvv.github.io/Portfolio/"} target="_blank">Click here</a>
                                             </td>
 
                                         </tr>
