@@ -11,11 +11,12 @@ import Contact from './contact';
 import reportWebVitals from './reportWebVitals';
 
 const routing = (
-   <Router>
+   <Router basename='/Portfolio'>
    <React.Fragment>
      
         <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/project" element={<Project />} />
         <Route path="/certificate" element={<Certificate />} />
         <Route path="/contact" element={<Contact />} />

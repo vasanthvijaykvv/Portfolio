@@ -24,16 +24,16 @@ class Certificate extends React.Component {
 
                         <ul class="nav nav-pills nav-justified" id="navigation">
                             <li class="nav-item">
-                                <a class="nav-link active" href="/">Home</a>
+                                <Link class="nav-link active" to="/">Home</Link>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="/project">Project</a>
+                                <Link class="nav-link active" to="/project">Project</Link>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="/certificate">Certificate</a>
+                            <Link class="nav-link active" to="/certificate">Certificate</Link>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="/contact">Contact</a>
+                            <Link class="nav-link active" to="/contact">Contact</Link>
                             </li>
 
                         </ul>
